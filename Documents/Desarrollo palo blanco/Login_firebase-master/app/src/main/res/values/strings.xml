@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="email">Email</string>
+    <string name="lugar_de_trabajo">Lugar de trabajo</string>
+    <string name="nombre">Nombre</string>
+    <string name="observaciones">Observaciones</string>
+    <string name="registro">Registro</string>
+    <string name="telefono">Telefono</string>
+</resources>
